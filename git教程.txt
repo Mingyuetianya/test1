@@ -1,0 +1,5 @@
+git code
+1.git init 初始化
+2.git status 查看状态
+3.git add . 管理
+4.git commit -m 'v1' 提交版本
